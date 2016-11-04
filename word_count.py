@@ -1,3 +1,4 @@
+#Returns the count of words in a sentence
 def words(string):
 	if type(string) == str:
 		split_string = string.split()
