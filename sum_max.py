@@ -1,3 +1,4 @@
+# Returns maximum and minimum value in a list
 def find_max_min(n):
     min_max = []
     identity = []
